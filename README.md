@@ -13,6 +13,6 @@ It's intended! :stuck_out_tongue_closed_eyes:
 
 
 ## More about my blog :P  
-Here, you can find most of my paintings. Well! Originally named Funpedia, this is a website (as stated in the very name of the website :P), that I built just for fun!   
+Here, you can find most of my paintings. There's also a feature to chat online with anyone who is on that particular page (chat page) at that time. Well! Originally named Funpedia, this is a website (as stated in the very name of the website :P), that I built just for fun!  
 
 There is plenty of scope for improvement and also, a lot more left to add on! I would be extremely glad to hear your feedback so that the blog can be further enhanced!
